@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlertCreationDemo</string>
+    <string name="alert">alert is being shown now</string>
+</resources>
